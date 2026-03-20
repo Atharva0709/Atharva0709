@@ -2,21 +2,21 @@
 
 ### About Me
 
-* [cite_start]🎓 **Computer Science Student** at SVKM's NMIMS MPSTME[cite: 3, 5].
-* [cite_start]🤖 Passionate about **Machine Learning**, **Deep Learning**, and **IoT**[cite: 14].
-* [cite_start]💻 **Mechine learning and AI** enthusiast with strong DSA foundations[cite: 14].
-* [cite_start]🚀 Currently working on **GauSetu AI** – an AI platform for indigenous cattle[cite: 18, 19].
-* [cite_start]🏛️ **Core Lead** for university events and technical clubs[cite: 28].
+* 🎓 **Computer Science Student** at SVKM's NMIMS MPSTME.
+* 🤖 Passionate about **Machine Learning**, **Deep Learning**, and **IoT**.
+* 💻 **Competitive Programming** enthusiast with strong DSA foundations.
+* 🚀 Currently working on **GauSetu AI** – an AI platform for indigenous cattle.
+* 🏛️ **Core Lead** for university events and technical clubs.
 
 ---
 
 ### Tech Stack
 
 #### Languages
-[cite_start]![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white) [cite: 14]
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### Tools & Libraries
-[cite_start]![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) [cite: 15, 16]
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
@@ -34,17 +34,17 @@
 
 ### 🚀 Projects
 
-* [cite_start]**GauSetu AI**: AI-driven platform with genetic tracking and A2 milk verification[cite: 18, 20].
-* [cite_start]**Gesture-Based Control**: HCI tool using MediaPipe and OpenCV for touchless system control[cite: 21, 22].
-* [cite_start]**Real-Time Chat**: Scalable messaging app built with React and Socket.io[cite: 24, 25].
+* **GauSetu AI**: AI-driven platform with genetic tracking and A2 milk verification.
+* **Gesture-Based Control**: HCI tool using MediaPipe and OpenCV for touchless system control.
+* **Real-Time Chat**: Scalable messaging app built with React and Socket.io.
 
 ---
 
 ### Fun Facts
 
-* 🏆 **Mr. [cite_start]Fresher 2024** at my university[cite: 42].
-* 🎙️ **Best Delegate** at NMIMS Model United Nations[cite: 41].
-* [cite_start]🌱 I believe in building technology that has a real social impact, like my work on small-scale Indian farming[cite: 19].
+* 🏆 **Mr. Fresher 2024** at my university.
+* 🎙️ **Best Delegate** at NMIMS Model United Nations.
+* 🌱 I believe in building technology that has a real social impact.
 
 ---
 
