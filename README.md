@@ -4,7 +4,7 @@
 
 * [cite_start]🎓 **Computer Science Student** at SVKM's NMIMS MPSTME[cite: 3, 5].
 * [cite_start]🤖 Passionate about **Machine Learning**, **Deep Learning**, and **IoT**[cite: 14].
-* [cite_start]💻 **Competitive Programming** enthusiast with strong DSA foundations[cite: 6, 14].
+* [cite_start]💻 **Competitive Programming** enthusiast with strong DSA foundations[cite: 14].
 * [cite_start]🚀 Currently working on **GauSetu AI** – an AI platform for indigenous cattle[cite: 18, 19].
 * [cite_start]🏛️ **Core Lead** for university events and technical clubs[cite: 27, 28].
 
@@ -17,22 +17,6 @@
 
 #### Tools & Libraries
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=atharva0709&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Atharva's GitHub Stats" />
-</p>
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharva0709&layout=compact&theme=tokyonight" alt="Most Used Languages" />
-</p>
-
-<p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=atharva0709&theme=tokyonight" alt="Atharva's Streak" />
-</p>
 
 ---
 
