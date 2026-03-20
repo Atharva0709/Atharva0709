@@ -2,11 +2,11 @@
 
 ### About Me
 
-* 🎓 **Computer Science Student** at SVKM's NMIMS MPSTME.
-* 🤖 Passionate about **Machine Learning**, **Deep Learning**, and **IoT**.
-* 💻 **Competitive Programming** enthusiast with strong DSA foundations.
-* 🚀 Currently working on **GauSetu AI** – an AI platform for indigenous cattle.
-* 🏛️ **Core Lead** for university events and technical clubs.
+* [cite_start]🎓 **Computer Science Student** at SVKM's NMIMS MPSTME[cite: 3, 5].
+* [cite_start]🤖 Passionate about **Machine Learning**, **Deep Learning**, and **IoT**[cite: 14].
+* [cite_start]💻 **Competitive Programming** enthusiast with strong DSA foundations[cite: 6, 14].
+* [cite_start]🚀 Currently working on **GauSetu AI** – an AI platform for indigenous cattle[cite: 18, 19].
+* [cite_start]🏛️ **Core Lead** for university events and technical clubs[cite: 27, 28].
 
 ---
 
@@ -23,28 +23,30 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=atharva0709&show_icons=true&theme=tokyonight" alt="Atharva's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=atharva0709&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Atharva's GitHub Stats" />
 </p>
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharva0709&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </p>
 
+<p align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=atharva0709&theme=tokyonight" alt="Atharva's Streak" />
+</p>
+
 ---
 
-### 🚀 Projects
-
-* **GauSetu AI**: AI-driven platform with genetic tracking and A2 milk verification.
-* **Gesture-Based Control**: HCI tool using MediaPipe and OpenCV for touchless system control.
-* **Real-Time Chat**: Scalable messaging app built with React and Socket.io.
-
+### 🚀 Latest Projects
+* [cite_start]**GauSetu AI**: AI-driven platform with genetic tracking and A2 milk verification[cite: 18, 20].
+* [cite_start]**Gesture-Based Control**: HCI tool using MediaPipe and OpenCV for touchless system control[cite: 21, 22].
+* [cite_start]**Real-Time Chat**: Scalable messaging app built with React and Socket.io[cite: 24, 25].
 ---
 
 ### Fun Facts
 
-* 🏆 **Mr. Fresher 2024** at my university.
-* 🎙️ **Best Delegate** at NMIMS Model United Nations.
-* 🌱 I believe in building technology that has a real social impact.
+* 🏆 **Mr. [cite_start]Fresher 2024** at my university[cite: 42].
+* 🎙️ **Best Delegate** at NMIMS Model United Nations[cite: 41].
+* [cite_start]🌱 I believe in building technology that has a real social impact[cite: 19].
 
 ---
 
