@@ -24,18 +24,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=atharva0709&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Atharva's GitHub Stats" />
-</p>
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharva0709&layout=compact&theme=tokyonight" alt="Most Used Languages" />
-</p>
-
----
-
 ### 🚀 Projects
 
 * **GauSetu AI**: AI-driven platform with genetic tracking and A2 milk verification.
@@ -58,5 +46,5 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atharva0709)
 
 <p align="center">
-  💙 ML Enthusiast | 🐄 Agri-Tech Innovator
+   ML Enthusiast | 🐄 Agri-Tech Innovator
 </p>
