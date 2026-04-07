@@ -1,10 +1,14 @@
 # Hi there, I'm Atharva! 👋
 
+<p align="left">
+  <img src="https://media.tenor.com/71_n66E2aY8AAAAC/monkey-computer.gif" width="250" alt="Typing Monkey" />
+</p>
+
 ### About Me
 
 * 🎓 **Computer Science Student** at SVKM's NMIMS MPSTME.
 * 🤖 Passionate about **Machine Learning**, **Deep Learning**, and **IoT**.
-* 💻 **Machine learning and AI** enthusiast with strong DSA foundations.
+* 💻 **Competitive Programming** enthusiast with strong DSA foundations.
 * 🚀 Currently working on **GauSetu AI** – an AI platform for indigenous cattle.
 * 🏛️ **Core Lead** for university events and technical clubs.
 
@@ -20,10 +24,24 @@
 
 ---
 
-### 🚀 Latest Projects
+### 📊 GitHub Stats
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=atharva0709&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Atharva's GitHub Stats" />
+</p>
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharva0709&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+</p>
+
+---
+
+### 🚀 Projects
+
 * **GauSetu AI**: AI-driven platform with genetic tracking and A2 milk verification.
 * **Gesture-Based Control**: HCI tool using MediaPipe and OpenCV for touchless system control.
 * **Real-Time Chat**: Scalable messaging app built with React and Socket.io.
+
 ---
 
 ### Fun Facts
