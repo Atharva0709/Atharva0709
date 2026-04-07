@@ -1,7 +1,7 @@
 # Hi there, I'm Atharva! 👋
 
 <p align="left">
-  <img src="monkey-computer.gif" width="500" alt="Typing Monkey" />
+  <img src="monkey-computer.gif" width="1000" alt="Typing Monkey" />
 </p>
 
 ### About Me
