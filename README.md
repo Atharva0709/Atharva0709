@@ -8,9 +8,9 @@
 
 * 🎓 **Computer Science Student** at SVKM's NMIMS MPSTME.
 * 🤖 Passionate about **Machine Learning**, **Deep Learning**, and **IoT**.
-* 💻 **Competitive Programming** enthusiast with strong DSA foundations.
+* 💻 **Machine Learning** enthusiast with strong DSA foundations.
 * 🚀 Currently working on **GauSetu AI** – an AI platform for indigenous cattle.
-* 🏛️ **Core Lead** for university events and technical clubs.
+* 🏛️ **Core Lead** for university events and  member in clubs.
 
 ---
 
@@ -30,15 +30,6 @@
 * **Gesture-Based Control**: HCI tool using MediaPipe and OpenCV for touchless system control.
 * **Real-Time Chat**: Scalable messaging app built with React and Socket.io.
 
----
-
-### Fun Facts
-
-* 🏆 **Mr. Fresher 2024** at my university.
-* 🎙️ **Best Delegate** at NMIMS Model United Nations.
-* 🌱 I believe in building technology that has a real social impact.
-
----
 
 ### Connect with Me
 
